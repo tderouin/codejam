@@ -6,7 +6,7 @@
 # Pretty straight forward, grab the input and then transpose
 # the matrix of printers to the individual colours
 # Iterate over the list of colours, consume the minimum
-# available quantity of ink unit available
+# available quantity of ink units available
 # If there are any ink units "left" after processing
 # all 4 colours, there is no possible solution
 # If a solution exists, there could be multiple possible
